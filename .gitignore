@@ -1,0 +1,6 @@
+/bin/
+/build*/
+/.qtcreator/
+*.user
+.DS_Store
+__MACOSX/
